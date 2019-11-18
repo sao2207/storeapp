@@ -1,7 +1,9 @@
+// import React, {Component} from 'react';
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+//class nameOfTheApp extendes Component{}   
 function App() {
   return (
     <div className="App">
